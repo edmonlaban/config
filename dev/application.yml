@@ -17,7 +17,8 @@ spring:
     continue-on-error: true
   jpa:
     hibernate.ddl-auto: update
-    database-platform: '{cipher}AQAOX0ThOPelujCKiYoh+dkj5Nk2ge6krn9NOD56PCvXWQKgsuBAeT2/RpBi/KZZonGQAPGfV+OZweLY1Fn7dCPlRv8D6z4AnoKq4GZ+LfaG+YZkyeckgL/NOoC8VKnIMHhrVDEe0dZLYkwJX29oIAJYlN5D7/06o6+2HD4K4PIpUT4+V6feQzBQuRRAWXQCChX3/C8im38iUtmr5xiO5ztjhhXGxkbapxvzvzG1rizEIvIAg5Zdp1+0q+Lyp5I4kr+GHQI58fEmDA2ZwaMA8GM+s69h2cfReSVKYATNtJChpFmqNL4tiNtWjQxsIvjupROu1CB7maf0UBu2w3YjSfNvMK5Ackm7+o3GcirwXRr+3hbSRv6y1eKY082bLBoLg9iBZ8ly5xPq49T0h9K8Bbtu1HFrJAbBBgkT+KELiXnguw=='
+    database-platform: '{cipher}AQCV1YeuN8wHaLEq1PSJUSCjNbCIawRWNR1enqSYv/zuZQtftJHVnZpl2W8JklUiB0xJO2uSpQ0aKFYYS8fjnih5H7yu1LqPuZtWxRo7dAInwhsLKq+3LGkmj16KCWguDmGEEbJwpF17uxDj8Hvc+um75cpw3DJeH3mURIQjXzLTSqn+wuN9d8XR3uIuSxeYy69CZLDibIejcDOhPXlZIUCc6kOPJ82A5D6BxoSJyL42WVuzSV+wrdQxEFJ2GF+hEtIRgCyPhRq90G+w2GbrADnnVnXuq5Ez/pjXHFhsCvIatN0t/yUphLvu17qj4RJCuQfWvQ/q3F7q3Xy7WJtuv9rYjSSyvD4hnnQ5k4k3Kz78gXRu7LmcnbLDTWDZOTtq5n/qtYZV40SdQA2mJr1dpfvu6/XxPqEif+5jNvugs6I4WQ=='
+
 logging:
   level:
     com.beacon.corelate: DEBUG
