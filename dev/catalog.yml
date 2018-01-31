@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: '{cipher}AQBal7Dlq6C5+q5kpctmzWUCj79jqlaqJFsxJVotX4hemrIPB/VXgj3qCrNNsbuiz1nJQrm7IwLDa5BgqR/QS29Oew/rsiQmGAbunnhuMse2st2F8TGjzKrffRkzMjVocbSCuDNcpr4bn1yVlTutwQl/R0LYYzIX7XzGqEDIGQeOq8YDZl2t8tG2I+9SdlYqzRzp7oPz3BgUaaKyzxZVW2h/FEJCxzemQ/b3TN37WM95WJPQAu5U4Ac5AD/RRDqK99kbkuUWshHWQ3ITGUYB3AkN2sP2in8AdT2lfI0R/SmhahW9+Xqm5FSdj8xuqGMswnYd0QGBD9KD7vjJGV1/0lU+uPUAXXDGOhcD8jfKWr8wEnZ0ffWdqQJ2zI98se3q6LI='
+    url: '{cipher}AQBDZOFBjclJ4Heo3dCDDmYyUUixc/vUDqtnSfH4Y7zsT8jPOcIa+mawDxj0rh8j1rk1AJ9EflyW71hrajONk1h6KDrCncBul2ZYV1kRwAHydY5L8E4SaDfqGL5ukCNqB3bpk4X++oG5+HKyxTIoHIRn2AW6VkVg/cpCLLbTQxMpwwl7ebUtbP+2qOvDWsBOppYXc1bggOnyT3z+tUg4Uy8OhWevKMFTQK4lUgVtPF2bvCjeQdzEwfN7RVFEzEZPFe0peFNcsZoLBBN5l43v0ic1ay42UoL+r2VESLKE3/czrID0XcUbRekAHtsrYVduBBlaqU7h+51zVrweVpazgTRbwAUm+rudGpHAs0QBSMpwt+UUuWtOtE3HwdqASN1WMcYfHGTeOkbD7rqspkHKm7TO3y+DECJ2USmUH4idpYY7NY2+BWlwx/RP7NcT+gQ8qfY='
   jpa:
     properties:
       hibernate:
